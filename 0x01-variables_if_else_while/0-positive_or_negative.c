@@ -1,8 +1,16 @@
+/*
+ * File:0-positive_or_negative.c
+ */
+
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+#include <stio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - prints a random number and states whether it is positive, negative, or zero.
+ *
+ * Return: Always 0
+ */ 
 int main(void)
 {
 	int n;
