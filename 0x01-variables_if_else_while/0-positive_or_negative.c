@@ -4,7 +4,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include <stio.h>
+#include <stdio.h>
 
 /**
  * main - prints a random number and states whether it is positive, negative, or zero.
